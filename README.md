@@ -1,3 +1,9 @@
+# Social Network web application that recreates Twitter, using React and Firebase
+
+Link to check web application [my_Twitter](https://twitter-clone-8f01c.web.app/)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
